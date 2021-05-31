@@ -1,2 +1,2 @@
 # BladeBuddy™
-KonradK's BladeBuddy project repository. 
+KonradK's BladeBuddy™ project repository. 
